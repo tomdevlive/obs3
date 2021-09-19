@@ -8,6 +8,7 @@
 			frameborder="0"
 			class="flex-grow"
 			style="width: 100%; height: 100%;"
+			allow = "autoplay;camera;microphone;fullscreen;picture-in-picture;"
 		/>
 
 		<template #settings>
